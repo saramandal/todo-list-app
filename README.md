@@ -28,11 +28,38 @@ The tasks are saved in a file so they are not lost when you close the app.
 
    python todo.py
 
-
 EXAMPLE OUTPUT
-   Welcome  To-Do App
-1. Add Task
-2. View Tasks
-3. Delete Task
-4. Exit
+--- TO-DO LIST ---
+1. Add task
+2. View tasks
+3. Exit
+Choose an option: 1
+Enter task: Buy groceries
+Task added.
+
+--- TO-DO LIST ---
+1. Add task
+2. View tasks
+3. Exit
+Choose an option: 1
+Enter task: Finish homework
+Task added.
+
+--- TO-DO LIST ---
+1. Add task
+2. View tasks
+3. Exit
+Choose an option: 2
+
+Your Tasks:
+1. Buy groceries
+2. Finish homework
+
+--- TO-DO LIST ---
+1. Add task
+2. View tasks
+3. Exit
+Choose an option: 3
+Goodbye!
+
 
